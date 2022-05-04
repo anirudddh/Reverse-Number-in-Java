@@ -1,4 +1,4 @@
-# How-to-Reverse-a-Number-in-Java
+# Reverse-Number-in-Java
 
 
 In this section, we will learn how to reverse a number in Java using while loop, for loop and recursion.
@@ -72,29 +72,29 @@ Let's implement the above logic in a <a href="https://www.github.com/anirudddh/R
 # Output :
 
 
-link
+![ReverseNumberExample1](https://user-images.githubusercontent.com/52548052/166838597-d35aa3b6-654e-4ee3-ba24-6aeeb8bccce7.png)
 
 
 In the following program, we have replaced the while loop by a for loop. It also removes the last digit of the number, after each iteration. When the condition, number!=0 becomes false, the loop exits and we get the reversed number.
 
 # Output :
 
-
-link
+![ReverseNumberExample2](https://user-images.githubusercontent.com/52548052/166838648-e9895f14-fb57-40c9-832a-c45a5ae2ac56.png)
 
 
 # Reverse a number using recursion
 
 # Output :
 
-link
+![ReverseNumberExample3](https://user-images.githubusercontent.com/52548052/166838723-bd4656d9-f74f-4f25-9078-c38e33b40f50.png)
 
 
 The following program reverses both numbers, positive and negative. When we enter a number, it first checks the number is positive or negative. If the number is negative, it converts the number into positive by multiplying -1. After that, it performs the same steps (as we have performed in the above programs) to reverse a number. At last, again it checks the number is negative or positive. To make the number negative, it again multiplies the reverse number by -1.
 
 # Output :
 
-link
+![ReverseNumberExample4](https://user-images.githubusercontent.com/52548052/166838758-8ca6f04a-4c86-4798-addd-f356fb23ec83.png)
+
 
 
 ## Done by :
